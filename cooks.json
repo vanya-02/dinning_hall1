@@ -1,0 +1,26 @@
+[
+  {
+    "rank": 3,
+    "proficiency": 3,
+    "name": "Gordon Ramsay",
+    "catch-phrase": "Hey, panini head, are you listening to me?"
+  },
+  {
+    "rank": 2,
+    "proficiency": 2,
+    "name": "Mario Batali",
+    "catch-phrase": "I really want to be a rockstar."
+  },
+  {
+  "rank": 1,
+  "proficiency": 1,
+  "name": "Paul Bocuse",
+  "catch-phrase": "Without butter, without eggs, there is no reason to come to France."
+  },
+  {
+  "rank": 1,
+  "proficiency": 1,
+  "name": "Ferran Adria",
+  "catch-phrase": "You need an entire life just to know about tomatoes."
+}
+]
